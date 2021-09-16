@@ -1,6 +1,6 @@
 # bupt-ncov-report-action
 
-使用 GitHub Actions 自动填报北邮 COVID-19 疫情信息。
+使用 GitHub Actions 自动填报北邮 COVID-19 疫情信息
 
 ![Telegram](img/telegram.jpg)
 
