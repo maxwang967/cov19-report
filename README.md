@@ -1,4 +1,4 @@
-# bupt-ncov-report-action1
+# bupt-ncov-report-action
 
 使用 GitHub Actions 自动填报北邮 
 
