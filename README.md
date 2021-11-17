@@ -1,6 +1,6 @@
 # bupt-ncov-report-action1
 
-使用 GitHub Actions 自动填报北邮 
+使用 GitHub Actions 自动填报北邮 1
 
 ![Telegram](img/telegram.jpg)
 
